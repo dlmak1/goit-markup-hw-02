@@ -62,7 +62,7 @@ a {
     color: #ffffff;
 }
 
-.butt {
+.button {
     background-color: #4d5ae5;
     font-weight: 500;
     font-size: 16px;
@@ -72,8 +72,8 @@ a {
     cursor: pointer;
 }
 
-.butt:hover,
-.butt:focus {
+.button:hover,
+.button:focus {
     background-color: #404bbf;
 }
 
