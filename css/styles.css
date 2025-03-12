@@ -38,6 +38,9 @@ a {
 .address-link {
     font-style: normal;
 }
+ul {
+    list-style: none;
+}
 
 .address-link .link {
     font-size: 16px;
